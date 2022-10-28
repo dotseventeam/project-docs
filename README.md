@@ -1,4 +1,4 @@
-# Documentazione progetto DotSeven (Gruppo 8)
+# Documentazione DotSeven (Gruppo 8)
 Documentazione del progetto di Ingegneria del Software A.A. 2022/2023
 
 ## Componenti del Gruppo
