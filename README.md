@@ -1,7 +1,7 @@
 # Documentazione DotSeven (Gruppo 8)
 Documentazione del progetto di Ingegneria del Software A.A. 2022/2023
 
-## Componenti del Gruppo
+## Componenti del gruppo
 | Nominativo                | N. matricola  | E-mail |
 |------------               |-----------    |----------|
 Ivan Antonino Arena         | 2000546       | ivanantonino.arena@studenti.unipd.it
